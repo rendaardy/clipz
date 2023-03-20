@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "clipz-27ec8": {
+      "hosting": {
+        "clipz": [
+          "clipz-27ec8"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "clipz-27ec8"
+  }
+}
